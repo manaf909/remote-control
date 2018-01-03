@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'android-pdf-viewer'" />
-    <option name="defaultScopeName" value="Module 'android-pdf-viewer'" />
-    <option name="SEARCH_SCOPE" value="Module 'android-pdf-viewer'" />
+    <option name="customScope" value="Project 'Speech'" />
+    <option name="defaultScopeName" value="Project 'Speech'" />
+    <option name="SEARCH_SCOPE" value="Project 'Speech'" />
   </component>
 </application>
